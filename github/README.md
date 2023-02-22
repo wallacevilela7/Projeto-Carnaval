@@ -16,9 +16,9 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src=".github/preview.jpg" width="100%">
-</p>
+</p> -->
 
 ## 🚀 Tecnologias
 
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050984449538256). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/wyAQA5Nea3L0Rsa9syTyeP/%23boraCodar---Desafio-7-(Community)?node-id=102%3A19&t=YpbZYkU0JGs92QNd-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
