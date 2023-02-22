@@ -10,15 +10,11 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="assets/images/Desktop.png">
-</p>
-
 <br>
 
-<!-- <p align="center">
-  <img src=".github/preview.jpg" width="100%">
-</p> -->
+<p align="center">
+  <img src="assets/images/Desktop.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
